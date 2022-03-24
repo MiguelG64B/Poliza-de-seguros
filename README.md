@@ -8,7 +8,7 @@ Año: 2022
 
 -EDGAR MIGUEL BERMUDES HERNANDEZ
 
-Como utlizar:
+Como instalar:
 
 1.Descargar el zip
 
