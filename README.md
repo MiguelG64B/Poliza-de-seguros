@@ -19,6 +19,11 @@ Como utlizar:
 4.Importa el documento sql llamado "parcial.sql" que se encuentra en el mismo proyecto
 
 
-Como funciona:
+
     
 ![imagen](https://user-images.githubusercontent.com/79877254/159948458-c13943e9-be68-41fb-9a34-e9f1dac0256d.png)
+
+![imagen](https://user-images.githubusercontent.com/79877254/159948825-738205fe-cdbf-4910-bb75-df1cae21adce.png)
+
+
+
